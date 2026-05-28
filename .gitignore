@@ -1,0 +1,9 @@
+# Build outputs
+build/
+output/
+*.o
+*.a
+*.so
+.config
+.config.old
+*~
